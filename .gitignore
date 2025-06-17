@@ -29,3 +29,4 @@ env/
 # System
 Thumbs.db
 ehthumbs.db
+db.sqlite3
